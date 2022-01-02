@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Matias Bacci
+- 👀 I’m interested in learning some new skills on programming
+- 🌱 I’m currently studying to become a full stack web developer
+- 
